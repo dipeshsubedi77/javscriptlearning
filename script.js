@@ -26,3 +26,9 @@
 //     adress : "lamjung",
 // };
 // console.log(persons.adress,persons.age);
+// console.log(persons);
+// delete persons.adress;
+// console.log(persons);
+
+// to change the name of object
+// persons.adress = "pokhara";

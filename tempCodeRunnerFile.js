@@ -1,2 +1,6 @@
-var names = ['dipesh subedi','sochana subedi','james subedi'];
-// console.log(names[0,2]);
+var persons = {
+    name: "dipesh subedi",
+    age :21,
+    adress : "lamjung",
+};
+console.log(persons.adress,persons.age);
