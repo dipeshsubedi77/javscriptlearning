@@ -101,6 +101,16 @@
 
 // shortCircuitEvaluation
 
-let isLoggedIn = true;
-const name = isLoggedIn && "Authentication"
-console.log(name);
+// let isLoggedIn = true;
+// const name = isLoggedIn && "Authentication"
+// console.log(name);
+
+// Nullish Coelescing Operator
+
+// let age = 22;
+// let  result  = age ?? "no age";
+// console.log(result)  
+
+// let age = undefined;
+// let  result  = age ?? "no age";
+// console.log(result)  
