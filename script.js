@@ -32,3 +32,8 @@
 
 // to change the name of object
 // persons.adress = "pokhara";
+
+// include
+// var names = ['dipesh subedi','sochna subedi','hero',12];
+// console.log(names.includes(12));
+
